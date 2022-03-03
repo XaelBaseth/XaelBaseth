@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XaelBaseth
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Python, C#
+- 🌱 I’m currently learning C#, PHP, JS
 - 📫 How to reach me : xaelbaseth@gmail.com
 
 <!---
