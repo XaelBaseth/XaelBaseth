@@ -6,7 +6,7 @@ I will update the project that I find more interesting below.
 ### Projects
 <a href="https://github.com/XaelBaseth/LIBFT">
 <img
-	src="../.img/libft.png"
+	src="../img/libft.png"
 	alt="LIBFT"
 	title="Libft_icons"
 	style="display: inline-block; margin: 0 auto; max_width: 300px"></a>
