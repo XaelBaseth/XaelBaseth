@@ -15,10 +15,28 @@ I will update the project that I find more interesting below.
 <a href="https://github.com/XaelBaseth/push_swap">
 <img
 	src="img/push_swap.png"
-	alt=Push_Swap_icons"
+	alt="Push_Swap_icons"
 	title="PUSH_SWAP"
 	style="display: inline-block; margin: 0 auto; max-width: 550px"
 ></a>
+
+<a href="https://github.com/XaelBaseth/minishell_42">
+<img
+	src="img/minishell.png"
+	alt="Push_Swap_icons"
+	title="MINISHELL"
+	style="display: inline-block; margin: 0 auto; max-width: 550px"
+></a>
+
+<a href="https://github.com/XaelBaseth/philosophers">
+<img
+	src="img/philosopher.png"
+	alt="Push_Swap_icons"
+	title="PHILOSOPHER"
+	style="display: inline-block; margin: 0 auto; max-width: 550px"
+></a>
+
+Badge are coming from the github : https://github.com/byaliego/42-project-badges
 
 <!--
 **XaelBaseth/XaelBaseth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
