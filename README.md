@@ -4,8 +4,12 @@ I'm Axel Charlot, currently a student in 42 School Le Havre.
 I will update the project that I find more interesting below.
 
 ### Projects
-
-
+<a href="https://github.com/XaelBaseth/LIBFT">
+<img
+	src="../.img/libft.png"
+	alt="LIBFT"
+	title="Libft_icons"
+	style="display: inline-block; margin: 0 auto; max_width: 300px"></a>
 
 <!--
 **XaelBaseth/XaelBaseth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
