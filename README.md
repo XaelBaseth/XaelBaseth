@@ -9,7 +9,7 @@ I will update the project that I find more interesting below.
 	src="img/libft.png"
 	alt="Libft_icons"
 	title="LIBFT"
-	style="display: inline-block; margin: 0 auto; max-width: 300px"
+	style="display: inline-block; margin: 0 auto; max-width: 550px"
 ></a>
 
 <!--
