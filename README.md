@@ -12,6 +12,14 @@ I will update the project that I find more interesting below.
 	style="display: inline-block; margin: 0 auto; max-width: 550px"
 ></a>
 
+<a href="https://github.com/XaelBaseth/push_swap">
+<img
+	src="img/push_swap.png"
+	alt=Push_Swap_icons"
+	title="PUSH_SWAP"
+	style="display: inline-block; margin: 0 auto; max-width: 550px"
+></a>
+
 <!--
 **XaelBaseth/XaelBaseth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
