@@ -4,7 +4,7 @@ I'm Axel Charlot, currently a student in 42 School Le Havre.
 I will update the project that I find more interesting below.
 
 ### Projects
-<a href="https://github.com/XaelBaseth/LIBFT">![Alt libft_icons](../img/libft.png)</a>
+<a href="https://github.com/XaelBaseth/LIBFT">![Alt libft_icons](img/libft.png)</a>
 
 <!--
 **XaelBaseth/XaelBaseth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
