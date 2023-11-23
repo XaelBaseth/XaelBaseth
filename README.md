@@ -36,6 +36,15 @@ I will update the project that I find more interesting below.
 	style="display: inline-block; margin: 0 auto; max-width: 550px"
 ></a>
 
+
+<a href="https://github.com/XaelBaseth/Cub3d">
+<img
+	src="img/cub3dm.png"
+	alt="Cub3d_icons"
+	title="CUB3D"
+	style="display: inline-block; margin: 0 auto; max-width: 550px"
+></a>
+
 Badge are coming from the github : https://github.com/byaliego/42-project-badges
 
 <!--
