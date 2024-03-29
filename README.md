@@ -45,6 +45,14 @@ I will update the project that I find more interesting below.
 	style="display: inline-block; margin: 0 auto; max-width: 550px"
 ></a>
 
+<a href="https://github.com/XaelBaseth/ft_inception">
+<img
+	src="img/inception.png"
+	alt="Inception_icon"
+	title="INCEPTION"
+	style="display: inline-block; margin: 0 auto; max-width: 550px"
+></a>
+
 <a href="https://github.com/XaelBaseth/ft_irc">
 <img
 	src="img/ft_ircm.png"
